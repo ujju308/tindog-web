@@ -2,16 +2,14 @@ body{
    font-family:  "montserrat",sans-serif;
 }
 .container-fluid{
-    padding-bottom:3% ;
-    padding-left: 13%;
-    padding-right: 13%;
+    padding:5% 15% 7%;
 }
 
 #title{
     background-color: #ff4c68;
-    padding: 7% 13%;
     color:white;
-    
+    padding-left:10%;
+   padding-bottom:15%;
 }
 h1{
     font-family: "montserrat-black";
